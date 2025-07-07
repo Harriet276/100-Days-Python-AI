@@ -140,7 +140,9 @@ I am Harriet Sigalla, a third-year Software Engineering student with a specializ
 **Contact**
 
 GitHub: github.com/Harriet276
+
 LinkedIn: linkedin.com/in/harrietgodfrey
+
 Email: sigallaharriet@gmail.com
 
 
