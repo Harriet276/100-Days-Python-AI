@@ -88,20 +88,23 @@ Solutions are clearly documented and  optimized
 
    bash
 100-Days-Python-AI/
-│
-├── days-01-40/         # Core learning: Python, DSA, libraries, ML basics
-├── project-1/          # Machine Learning project: Student Career Predictor
-├── days-50-90/         # Deep learning, NLP, transfer learning, advanced AI
-├── final-project/      # Capstone: Medical skin disease classifier
-├── README.md           # Repository overview and structure
+
+ days-01-40 -        # Core learning: Python, DSA, libraries, ML basics
+ project-1 -        # Machine Learning project: Student Career Predictor
+ days-50-90 -      # Deep learning, NLP, transfer learning, advanced AI
+ final-project -     # Capstone: Medical skin disease classifier
+ README.md           # Repository overview and structure
 
 Each folder contains code, documentation, and task breakdowns organized by day and topic.
 
 
 **About the Author**
+
+
 I am Harriet Sigalla, a third-year Software Engineering student with a specialization in Artificial Intelligence. I designed this 100-day initiative to take full ownership of my technical development and challenge myself beyond academic requirements.
 
 **This project demonstrates my ability to:**
+
 
 - Design and follow through a long-term technical learning plan
 
@@ -117,6 +120,8 @@ I am Harriet Sigalla, a third-year Software Engineering student with a specializ
 
 **Next Steps and Advanced Topics (Days 50–100)**
 
+
+
 - Text classification and sentiment analysis (NLP)
 
 - Transfer learning with HuggingFace and pretrained models
@@ -130,12 +135,14 @@ I am Harriet Sigalla, a third-year Software Engineering student with a specializ
 - Power BI integration for visual reporting
 
 - Deployment with Docker and GitHub Actions
+  
 
 **Contact**
 
 GitHub: github.com/Harriet276
 LinkedIn: linkedin.com/in/harrietgodfrey
 Email: sigallaharriet@gmail.com
+
 
 If you are a recruiter, hiring manager, or collaborator and are looking for someone who is proactive, technically competent, and able to translate knowledge into impactful solutions, feel free to get in touch.
 
