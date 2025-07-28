@@ -9,7 +9,7 @@ def dictionary(input_string):
     for i in range(len(input_string)):
         current_char = input_string[i]
         if current_char in char:
-            char[current_char] =+ 1
+            char[current_char] += 1
         else:
             char[current_char] = 1
 
