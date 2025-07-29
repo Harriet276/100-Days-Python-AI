@@ -1,1 +1,1 @@
-#Day 16: Data Structures – Stacks (List as Stack + Stack Use Case)
+#Day 16: Data Structures – Stacks (List as Stack + Stack Use Case(s))

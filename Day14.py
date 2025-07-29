@@ -18,3 +18,5 @@ even_odds = ["even" if x %2 == 0 else "odd" for x in num]
 
 #Dictionary comprehension: Create a dictionary with numbers and their cubes from 1 to 10
 cubes = {x:x**3 for x in range(1,11)}
+
+##leetcode
