@@ -32,7 +32,7 @@ print("    \n")
 
 # LeetCode Practice
 # LeetCode – 94. Binary Tree Inorder Traversal
-# ➡️ You’ll be asked to return the inorder traversal as a list.
+#  You’ll be asked to return the inorder traversal as a list.
 
 
 def inorder_TraversalList(node):
